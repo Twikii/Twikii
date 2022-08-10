@@ -16,20 +16,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codixweb.be#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codixweb.be#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/Twikiiofficial#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/Twikiiofficial#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/_JulianOfficial#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/_JulianOfficial#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/julianalbiarfernandez#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/julianalbiarfernandez#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_JulianOfficial#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_JulianOfficial#gh-dark-mode-only)
+[![Twitter Badge](https://img.shields.io/badge/-@_JulianOfficial-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_JulianOfficial)](https://twitter.com/_JulianOfficial) [![Mail Badge](https://img.shields.io/badge/-Twikii-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/Twikiiofficial) [![Linkedin Badge](https://img.shields.io/badge/-Julian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianalbiarfernandez/) [![Mail Badge](https://img.shields.io/badge/-@_JulianOfficial-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_JulianOfficial) [![Mail Badge](https://img.shields.io/badge/-julian@codixweb.be-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:julian@codixweb.be) [![Discord](https://img.shields.io/badge/-TeamTwikii-9A9A9A?style=flat&labelColor=9A9A9A&logo=discord&logoColor=white)](https://discordapp.com/invite/twikii) [![Snapchat](https://img.shields.io/badge/-@Julian.official-282828?style=flat&labelColor=282828&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/Julian.official)
 
 ### Languages and Tools:
 
